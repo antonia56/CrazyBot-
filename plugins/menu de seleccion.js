@@ -89,7 +89,7 @@ const rows = [
 const sections = [{title: "ELIGE UNA OPCIÓN", rows: rows}]
 const button = {
 buttonText: 'SELECCIONE UNA OPCIÓN',
-description: "NOMBRE DEL BOT\nY/O LA INFORMACIÓN QUE QUIERA AGREGAR\n\n*THE SHADOW BROKERS - BOT*",
+description: "NOMBRE DEL BOT\nY/O LA INFORMACIÓN QUE QUIERA AGREGAR\n\n*CrazyBot*",
 sections: sections,
 listType: 1
 //NOTA: PARA HACER UN SALTO DE LINEA DE USA \n 
